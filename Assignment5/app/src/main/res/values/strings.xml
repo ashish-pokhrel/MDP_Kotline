@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Assignment5QuizApp</string>
+    <string name="question1">1. You can create an emulator to simulate the configuration of a particular type of Android device using a tool like ___.</string>
+    <string name="question2">2. You can show or hide a view in your app by setting its visibility. Which of the following are valid visibility values?</string>
+
+    <string name="q1_option1">Theme Editor</string>
+    <string name="q1_option2">AVD Manager</string>
+    <string name="q1_option3">Virtual Editor</string>
+
+    <string name="q2_option1">Visible</string>
+    <string name="q2_option2">Gone</string>
+    <string name="q2_option3">Clear</string>
+
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+    <string name="heading">Each question carries 50 points</string>
+</resources>
